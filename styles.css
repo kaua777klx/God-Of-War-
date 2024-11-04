@@ -15,4 +15,6 @@ header {
 section {
 
   background:radial-gradient(black, transparent ) ;
+  padding-bottom: 80px;
+  padding-top: 80px;
 }
