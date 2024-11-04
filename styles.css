@@ -4,6 +4,6 @@ body {
 }
 
 header {
-    border: solid 3px blue;
+    border-bottom: solid 3px red;
 
 }
